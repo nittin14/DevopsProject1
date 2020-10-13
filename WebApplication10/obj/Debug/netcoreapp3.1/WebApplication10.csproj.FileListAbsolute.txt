@@ -1,0 +1,9 @@
+C:\Users\NittinAggarwal\Desktop\Learning\Devops\DevopsProject1\WebApplication10\WebApplication10\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\NittinAggarwal\Desktop\Learning\Devops\DevopsProject1\WebApplication10\WebApplication10\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\NittinAggarwal\Desktop\Learning\Devops\DevopsProject1\WebApplication10\WebApplication10\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\NittinAggarwal\Desktop\Learning\Devops\DevopsProject1\WebApplication10\WebApplication10\obj\Debug\netcoreapp3.1\WebApplication10.csprojAssemblyReference.cache
+C:\Users\NittinAggarwal\Desktop\Learning\Devops\DevopsProject1\WebApplication10\WebApplication10\obj\Debug\netcoreapp3.1\WebApplication10.AssemblyInfoInputs.cache
+C:\Users\NittinAggarwal\Desktop\Learning\Devops\DevopsProject1\WebApplication10\WebApplication10\obj\Debug\netcoreapp3.1\WebApplication10.AssemblyInfo.cs
+C:\Users\NittinAggarwal\Desktop\Learning\Devops\DevopsProject1\WebApplication10\WebApplication10\obj\Debug\netcoreapp3.1\WebApplication10.RazorTargetAssemblyInfo.cache
+C:\Users\NittinAggarwal\Desktop\Learning\Devops\DevopsProject1\WebApplication10\WebApplication10\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication10.StaticWebAssets.Manifest.cache
+C:\Users\NittinAggarwal\Desktop\Learning\Devops\DevopsProject1\WebApplication10\WebApplication10\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication10.StaticWebAssets.xml
